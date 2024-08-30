@@ -48,7 +48,7 @@ We’re committed to continuously improving SkinSafe. Here’s what’s coming u
 - **Version 1.3:** Global product database integration, personalized skincare routines, and more.
 
 
-## 🤝 Contributers and  Contact
+## 🤝 Collaborators and  Contact
 
 - [Dinesh Priyantha](www.linkedin.com/in/dinesh-priyantha)
 - [Nirmal Nuwan Bandara](nirmalbandara313@gmail.com)
